@@ -1,4 +1,4 @@
-/*package ArrayIndexOutOfBoundsException;
+package ArrayIndexOutOfBoundsException;
 
 public class ArrayIndexOutOfBoundsExceptions {
 
@@ -21,4 +21,3 @@ public class ArrayIndexOutOfBoundsExceptions {
         System.out.println(array[1]);
     }
 }
-*/
